@@ -3,3 +3,8 @@ body
 	font-size: 18px;
 	color: red;
 }
+
+h1
+{
+	border-bottom: 1px solid silver;
+}
